@@ -1,0 +1,3 @@
+﻿  pr11.cpp
+E:\Сис. прог\MolotovaPr11\pr11\pr11\pr11.cpp(232): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  pr11.vcxproj -> E:\Сис. прог\MolotovaPr11\pr11\x64\Debug\pr11.exe
